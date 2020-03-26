@@ -1,0 +1,18 @@
+Package: Hpv301ClinicalDatabase
+Type: Package
+Title: HPV301 Database Builder
+Version: 0.1.0
+Author: Albert Sylvester
+Maintainer: Albert Sylvester <asylvester@inovio.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: CPL
+Encoding: UTF-8
+LazyData: true
+Depends: 
+ dplyr,
+ pdftools,
+ tesseract,
+ stringr,
+ Hmisc
+RoxygenNote: 7.0.2
